@@ -2,24 +2,10 @@ English | [Chinese](./README.md)
 
 > [!IMPORTANT]
 > ## 致大家
-> This project was originally just a simple homepage. However, as more and more friends discovered this project, it received a lot of undue attention. Moreover, as a work of a beginner in front-end development, its code is quite messy and of low quality. In addition, this project has also been resold by many unknown resource or download sites, causing many unsuspecting buyers to find my contact information from the source code to consult on problems or request features. But due to current personal life reasons, and I have never gained any benefits from this project, so I am unable to maintain this project. This repository will not be archived. We will actively accept PRs from all the experts, but no updates will be made for any new features or bugs. Please understand!
+>Thank you for visiting my GitHub site, Dou Sir (Thoruises)! Here, my coding journey and open-source sharing are recorded. Every line of code is a mark of my growth. I'm looking forward to exchanging ideas with you and making progress together. If the projects are helpful to you, you're welcome to give a Star or provide feedback. Let's make technology more warm and approachable! 🚀 
 
-<p>
-<strong><h2>Homepage</h2></strong>
-Simple little homepage, had enough of the original one and made a new one
-</p>
 
-![無名の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
 
->The logo font on the home page has been compressed, so if you use a font other than this logo, it will change back to the default font, Here is the [full font](https://file.4everland.app/font/Other/Pacifico-Regular.ttf)  
-
-### Demo
-
->Due to CDN caching, you may need `Ctrl` + `F5` to force a browser cache refresh to see the latest results
-
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - Dev](https://home-imsyy.vercel.app)
-- [無名の主页 - Standby](https://home-5iw.pages.dev)
 
 ### Functions
 
